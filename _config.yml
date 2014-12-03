@@ -1,0 +1,21 @@
+# Site settings
+title: Trave
+subtitle: "Journal of [name]"
+email: your-email@domain.com
+description: "Make the footer happy by entering a short description about yourself here"
+baseurl: ""
+url: "http://mcdifference.tk"
+twitter_username: ""
+github_username:  ""
+instagram_username: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed
